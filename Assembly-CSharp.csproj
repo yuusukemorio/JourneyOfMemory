@@ -62,6 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Game\camera\mouse.cs" />
+    <Compile Include="Assets\Game\fps.cs" />
     <Compile Include="Assets\Game\model\SL_matome\denntyuu\idou.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
